@@ -1,0 +1,1 @@
+var json_plfybz2building_2 = {"type":"FeatureCollection","name":"plfybz2building_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","full_id":"n832371155","osm_id":"832371155","osm_type":"node","entrance":"yes"},"geometry":{"type":"Point","coordinates":[82.9089695,55.2188246]}}]}
